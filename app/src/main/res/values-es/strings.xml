@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi lista de contactos</string>
+    <string name="toggle_button">Botón de activación</string>
+    <string name="save">Ahorrar</string>
+    <string name="name">Contacto:</string>
+    <string name="address">Dirección:</string>
+    <string name="home_phone">Teléfono de casa:</string>
+    <string name="cell_phone">Teléfono móvil:</string>
+    <string name="email_address">Dirección de correo electrónico:</string>
+    <string name="birthday">Cumpleaños:</string>
+    <string name="birthdate">10/01/1970</string>
+    <string name="change_birthday">Cambio</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="map_activity_text">Actividad del mapa</string>
+    <string name="list_activity_text">Actividad de lista</string>
+    <string name="contact_list_button">Un botón para la lista de contactos</string>
+    <string name="settings_activity_text">Actividad de configuración</string>
+    <string name="sort_contact_by">Ordenar contacto por:</string>
+    <string name="name_settings">Nombre</string>
+    <string name="city_settings">Ciudad</string>
+    <string name="birthday_settings">Cumpleaños</string>
+    <string name="sort_order">Orden de clasificación:</string>
+    <string name="ascending">Ascendente</string>
+    <string name="descending">Descendente</string>
+</resources>
