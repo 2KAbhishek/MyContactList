@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyContactList</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="save">Save</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="home_phone">Home Phone:</string>
+    <string name="cell_phone">Cell Phone:</string>
+    <string name="email_address">Email Address:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="birthdate">01/01/1970</string>
+    <string name="change_birthday">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="map_activity_text">Map activity</string>
+    <string name="list_activity_text">List activity</string>
+    <string name="contact_list_button">A button for Contact List</string>
+    <string name="settings_activity_text">Settings activity</string>
+    <string name="sort_contact_by">Sort Contact By:</string>
+    <string name="name_settings">Name</string>
+    <string name="city_settings">City</string>
+    <string name="birthday_settings">Birthday</string>
+    <string name="sort_order">Sort order:</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="city">City</string>
+</resources>
